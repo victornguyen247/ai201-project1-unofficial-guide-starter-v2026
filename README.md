@@ -1,6 +1,6 @@
 # The Unofficial Guide
 
-<!-- Replace this line with your name and which corpus you picked. -->
+Vuong Nguyen -- life_campus
 
 > **This file is your submission.** Fill it in as you go — most sections get
 > written during the milestone that produces them, not at the end.
@@ -26,6 +26,11 @@
      this repo.
 
      Milestone 5. -->
+     I picked life_campus. I ask system "when the parking permits go on sale?" with (best distance 0.333, cutoff 0.6). the system answered "Student permits for the west lots go on sale in August (admin_parking_permits.txt).
+     
+     Sources retrieved: admin_parking_permits.txt, advising_registration.txt, dining_halden_hall_followup.txt, dining_north_kitchen_followup.txt, transit_shuttle.txt
+
+     1 model calls this session, 586 tokens (565 in, 21 out)"
 
 ## Chunking Strategy
 
