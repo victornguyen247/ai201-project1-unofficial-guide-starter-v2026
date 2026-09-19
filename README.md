@@ -155,9 +155,9 @@ Sources retrieved: housing_aldridge_hall_laundry.txt, housing_fenwick_court_laun
 
      Milestone 5. -->
 
-**1.**
+**1.** I once asked Claude to write the code for a project's login feature. I forgot to specify the use of JWT for user authentication, so the code accepted passwords as plain text strings without performing any hashing, authorization. I needed to fix this vulnerability by my self.
 
-**2.**
+**2.** A few years ago, I had an assignment for an ESL class that required writing a response to an article. I asked ChatGPT to help me with it, and it generated a very polished, authoritative-sounding response. However, when I checked the citations and sources, I discovered they were completely non-existent. In the end, I had to write the piece myself, but the ideas it suggested were genuinely excellent and worth using.
 
 <!-- ── Stretch features ─────────────────────────────────────────────────────
      Doing one? Say so here BEFORE you start. A feature this README never
