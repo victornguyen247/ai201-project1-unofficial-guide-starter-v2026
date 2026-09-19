@@ -34,8 +34,8 @@ Vuong Nguyen -- life_campus
 
 ## Chunking Strategy
 
-**Chunk size:**
-**Overlap:**
+**Chunk size:** 420
+**Overlap:** 120
 
 <!-- What about YOUR documents made you pick these numbers? Short posts and
      long sectioned guides don't want the same chunking, and "800 seemed
@@ -58,28 +58,48 @@ Vuong Nguyen -- life_campus
 
      Milestone 3. -->
 
-**Chunk 1** — source: `` — produced by: ``
+**Chunk 1** — source: `admin_add_drop_deadline.txt#0` — produced by: `chunker.py::fallback_split`
+On the add/drop deadline
 
+You can add a course through the end of the second week. Dropping is a longer window — through the end of week six — but a drop after week two shows as a W on your transcript. Nothing anywhere on the registrar's site says this plainly, and students find out from each other.
 ```
 ```
 
-**Chunk 2** — source: `` — produced by: ``
+**Chunk 2** — source: `course_cs_210_exams.txt#0` — produced by: `chunker.py::fallback_split`
+CS 210 Data Structures — assessment
 
+Two midterms and a final, all drawn from lecture material rather than the textbook. Midterms are curved, the final is not.
+
+Do the labs even though they're only 10% — the exams reuse the lab problems.
 ```
 ```
 
-**Chunk 3** — source: `` — produced by: ``
+**Chunk 3** — source: `course_stat_150.txt#0` — produced by: `chunker.py::fallback_split`
+STAT 150 Applied Statistics
 
+Transferred in last year, so take this with a grain of salt. Format is flipped: watch the recordings, class time is problem sets. Assessment: three equally weighted midterms, no final. No curve, but the lowest midterm is dropped.
+
+Expect 5 to 6 hours a week outside class.
+
+The one piece of advice: the dropped midterm makes the first one low-stakes; use it to learn the format.
 ```
 ```
 
-**Chunk 4** — source: `` — produced by: ``
+**Chunk 4** — source: `dining_the_ridgeway_cafe_followup.txt#0` — produced by: `chunker.py::fallback_split`
+Re: The Ridgeway Café
 
+Adding to what people have said about The Ridgeway Café. The wait figure of 10 to 15 minutes at 12:30 matches what I've seen. If you're trying to eat between classes, go before 11:45 and it's a different building entirely.
+
+Also worth saying: seating is tight; about 40 seats for a building of 900. Nobody tells you this at orientation.
 ```
 ```
 
-**Chunk 5** — source: `` — produced by: ``
+**Chunk 5** — source: `housing_morrow_house_laundry.txt#0` — produced by: `chunker.py::fallback_split`
+Laundry in Morrow House
 
+Machines take $1.50 wash, $1.25 dry, coin or card. There are eight washers and six dryers for the building, which is the wrong ratio and means the dryers back up on Sunday evenings.
+
+Best time to do laundry here is Tuesday or Wednesday morning. Sunday after 6pm you will wait.
 ```
 ```
 
