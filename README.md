@@ -108,14 +108,19 @@ Best time to do laundry here is Tuesday or Wednesday morning. Sunday after 6pm y
 <!-- One complete question and answer, pasted as text, with the source line
      visible. Milestone 4. -->
 
-**Question:**
+**Question:**  
+when is the best time to laudry in Old Brewhouse
 
 **Answer:**
+The best time to do laundry in Old Brewhouse is Tuesday or Wednesday morning. 
 
+Source: `housing_old_brewhouse_laundry.txt` (also mentioned in `housing_old_brewhouse.txt` regarding laundry details).
+
+Sources retrieved: housing_aldridge_hall_laundry.txt, housing_fenwick_court_laundry.txt, housing_old_brewhouse.txt, housing_old_brewhouse_laundry.txt, housing_tamsin_court_laundry.txt
 ```
 ```
 
-**My relevance cutoff:**
+**My relevance cutoff:** 0.55
 
 <!-- The number you set in config.py, and how you got there.
 
@@ -128,7 +133,16 @@ Best time to do laundry here is Tuesday or Wednesday morning. Sunday after 6pm y
 
 | Question | In corpus? | Best distance |
 |---|---|---|
-|  |  |  |
+| when the parking permits of west lots go on sale? | life_campus | 0.2 |
+| when the parking permits of east lots go on sale? | life_campus | 0.232 |
+| when is the best time to laudry in Old Brewhouse | life_campus | 0.449 |
+| what is open time of health center for walk-in patients?| life_campus | 0.282 |
+| How much a student get for printing in a semester? | life_campus | 0.294 |
+| What is the capital of Mongolia? | life_campus | 0.825 |
+| How do I change the oil in a diesel engine? | life_campus | 0.934 |
+| Who won the 1994 World Cup? | life_campus | 0.886 |
+| What is the recommended dosage of ibuprofen for a headache? | life_campus | 0.844 |
+| How do I write a for loop in Rust? | life_campus | 0.896 |
 
 ## How I Used AI
 
